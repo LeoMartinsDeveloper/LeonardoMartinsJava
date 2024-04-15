@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardomartinsjava&label=Profile%20views&color=0e75b6&style=flat" alt="leonardomartinsjava" /> </p>
 
-- 🧑🏻‍💻 I’m currently working on **a food delivery software.**
+- 🧑🏻‍💻 I’m currently working on **a food delivery project.**
 
 - 👨‍💻 I’m currently learning **Java, API, Spring.**
 
