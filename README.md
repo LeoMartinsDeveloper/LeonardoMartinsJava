@@ -15,7 +15,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-martinsjava/)
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![nvidia](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
-[![CPU](https://img.shields.io/badge/Intel-Core_i7_8700k 5.0ghz OVERCLOCKED-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
+[![CPU](https://img.shields.io/badge/Intel-Core_i7_8700k 5.0ghz-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
 [![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]()
 [![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 [![browser](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
