@@ -5,7 +5,7 @@
 
 - 🧑🏻‍💻 I’m currently working and learning on **a food delivery project.**
 
-- 👨‍💻 I’m currently learning **Java, API, Spring.**
+- 👨‍💻 I’m currently learning about **Java, API's, Spring.**
 
 - 😜 Fun fact, **I'm a musician.**
 
