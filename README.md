@@ -1,4 +1,4 @@
-<h1 align="center">Greetings from a Java developer 😁 </h1>
+<h1 align="center">Greetings from a Java enthusiast 😁 </h1>
 <h3 align="center">Hi I'm from Brazil and I'm in love with the process of studying Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardomartinsjava&label=Profile%20views&color=0e75b6&style=flat" alt="leonardomartinsjava" /> </p>
