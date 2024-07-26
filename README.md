@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardomartinsjava&label=Profile%20views&color=0e75b6&style=flat" alt="leonardomartinsjava" /> </p>
 
-- 👨‍💻 I’m currently learning **Java, API's, Spring Boot, postgreSQL.**
+- 👨‍💻 I’m currently learning **Java, API's, Spring Boot, SQL.**
 
 - 😜 Fun fact, **I'm a musician.**
 
